@@ -1,0 +1,147 @@
+id: IFA6BFA2C
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T13:04:38.890630'
+last_modified: '2022-06-17T13:04:38.890655'
+parser: null
+source_metadata:
+  title: Meditation Series
+  language: it
+  description: 'A selection of texts related to various forms of meditation (sgom
+    pa; bhāvana) or contemplation, including the cultivation of calm abiding or tranquillity
+    (zhi gnas; śamatha) and insight (lhag mthong; vipaśyanā):'
+  volume:
+    f66B4:
+      title: 'Advice for Beginners: How to Overcome Obstacles to Meditation'
+      base_file: f66B4.txt
+      order: 1
+      parent: Advice
+    f87CC:
+      title: 'A Casket of Sacred Dharma: Stages of Meditation on Dependent Arising'
+      base_file: f87CC.txt
+      order: 2
+      parent: Advice
+    fE348:
+      title: Putting the Instruction on the Purification of Mental Activity into Practice
+      base_file: fE348.txt
+      order: 3
+      parent: Analytical Meditation
+    f38C0:
+      title: The Wheel of Analytical Meditation That Thoroughly Purifies Mental Activity
+      base_file: f38C0.txt
+      order: 4
+      parent: Analytical Meditation
+    fB47F:
+      title: 'The Garland of Jewel Ornaments: The Stages of Meditating on the Bodhicaryāvatāra'
+      base_file: fB47F.txt
+      order: 5
+      parent: Analytical Meditation
+    f7F00:
+      title: Advice for Hor Özer
+      base_file: f7F00.txt
+      order: 6
+      parent: Dzogchen
+    f7D66:
+      title: 'From ''Finding Comfort and Ease in Meditation'': A Guide to Locations
+        for Cultivating Samadhi'
+      base_file: f7D66.txt
+      order: 7
+      parent: Dzogchen
+    f5F9C:
+      title: 'From ''Finding Comfort and Ease in Meditation'': The Practitioner of
+        Meditation'
+      base_file: f5F9C.txt
+      order: 8
+      parent: Dzogchen
+    f4A99:
+      title: 'A Lamp to Dispel Darkness: An Instruction that Points Directly to the
+        Very Essence of Mind in the Tradition of ‘the Old Realized Ones’'
+      base_file: f4A99.txt
+      order: 9
+      parent: Dzogchen
+    fEC43:
+      title: Advice on How to Put the Meaning of the Natural Great Perfection into
+        Practice
+      base_file: fEC43.txt
+      order: 10
+      parent: Dzogchen
+    f0CD4:
+      title: 'Self-Liberating Meditation: A Profound Method for Attaining Enlightenment
+        according to the Ultimate Great Perfection'
+      base_file: f0CD4.txt
+      order: 11
+      parent: Dzogchen
+    f53F5:
+      title: Advice from the Lips of Tertön Sogyal
+      base_file: f53F5.txt
+      order: 12
+      parent: Dzogchen
+    f2919:
+      title: A Torch to Illuminate Crucial Points of the Path of Meditation
+      base_file: f2919.txt
+      order: 13
+      parent: Dzogchen
+    fB714:
+      title: Advice for Satsa Drupgen
+      base_file: fB714.txt
+      order: 14
+      parent: Mahāmudrā
+    f5398:
+      title: The Mahāmudrā Practice of Stillness, Movement and Awareness
+      base_file: f5398.txt
+      order: 15
+      parent: Mahāmudrā
+    fC39F:
+      title: A Clear and Concise Description of the Practice of Śamatha
+      base_file: fC39F.txt
+      order: 16
+      parent: Śamatha
+    fD81D:
+      title: How to Cultivate Concentration
+      base_file: fD81D.txt
+      order: 17
+      parent: Śamatha
+    f6C08:
+      title: Profound Instruction on Śamatha
+      base_file: f6C08.txt
+      order: 18
+      parent: Śamatha
+    f7B14:
+      title: The Importance of Mindfulness and Vigilance
+      base_file: f7B14.txt
+      order: 19
+      parent: Śamatha
+    fB72A:
+      title: 'The Sage who Dispels Mind’s Anguish: Advice from the Guru, the Gentle
+        Protector Mañjuśrī on the Means of Accomplishing the Yogas of Śamatha and
+        Vipaśyanā'
+      base_file: fB72A.txt
+      order: 20
+      parent: Śamatha & Vipaśyanā
+    fF243:
+      title: 'The Light of Primordial Wisdom: An Instruction Manual for the Primordially
+        Pure Perfection Stage of the Powerful & Wrathful Dorje Drolö, Conqueror of
+        Demons'
+      base_file: fF243.txt
+      order: 21
+      parent: Śamatha & Vipaśyanā
+    f89A2:
+      title: 'Clarifying the Essence: A Summary of the Instructions on the View of
+        the Middle Way'
+      base_file: f89A2.txt
+      order: 22
+      parent: Vipaśyanā
+    fD765:
+      title: 'The Excellent Path of the Great Vehicle: How to Meditate on the Three
+        Gateways to Liberation According to the Mahāyāna'
+      base_file: fD765.txt
+      order: 23
+      parent: Vipaśyanā
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
